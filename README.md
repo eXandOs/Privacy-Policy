@@ -4,7 +4,7 @@
 
 #### Privacy Policy for eXandOs
 At eXandOs, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by eXandOs and how we use it.
-If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us at <mishoppinglist@outlook.com>.
+If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us at <exandos@outlook.com>.
 
 
 #### Log Files
