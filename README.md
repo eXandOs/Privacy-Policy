@@ -37,5 +37,5 @@ This Privacy Policy applies only to our online activities and is valid for visit
 
 
 #### Consent
-By using our app, you hereby consent to our Privacy Policy and agree to its Terms and Conditions.
+By using our app, you hereby consent to our Privacy Policy and agree to its Terms and Conditions.  
 
